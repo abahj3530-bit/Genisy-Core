@@ -1,0 +1,4 @@
+CACHE = {
+    "events": [],
+    "predictions": []
+}
